@@ -1,0 +1,69 @@
+#include <iostream>
+#include <vector>
+
+using namespace std;
+
+
+  class Zwierze{
+protected:
+    int masa;
+public:
+    virtual void daj_glos()=0;
+    void ustaw_mase(int masa){ this->masa=masa;}
+
+    Zwierze(){ustaw_mase(0);}
+    void test(){cout<<"Test";}
+};
+
+
+  class Krowa:public Zwierze
+    {
+
+public:
+    void daj_glos()
+    {
+        cout<<"MUUUU!"<<endl;
+    }
+    void ustaw_mase(int masa)
+    {
+
+        if (masa<0 || masa>1000) throw -1;
+        Zwierze::ustaw_mase(masa);
+    }
+};
+
+  class Student:public Zwierze
+  {
+public:
+	void daj_glos()
+	{
+		cout<<"PAN DA 3!PLZ RESPOND"<<endl;
+	}
+	void ustaw_mase(int masa)
+	{
+		if (masa<0 || masa>100) throw -1;
+		Zwierze::ustaw_mase(masa);
+	}
+};
+
+  class ZOO: public Zwierze
+    {
+    protected:
+        vector<Zwierze*>vz;
+			for (int i=0;i<v.size();++i)
+				v.at(i)-> daj_glos();
+    };
+
+  int main()
+{
+	Zwierze*z;
+	z=new Krowa();
+	z->daj_glos();
+	delete z;
+
+
+	z=new Student();
+	z->daj_glos();
+	delete z;
+    return 0;
+}
