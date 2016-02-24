@@ -13,10 +13,10 @@ TP-8
 3.
 
 TN-15
-1.Milczarek Brayan 212519, github: brymil, C++
+1.Milczarek Brayan 212519
 2. Adrian Malinowski, Adrianowsky94, C++
-3.
-2010. Patryk Adamczak 212528 DonPatus
+3. Nowakowski Hubert 212570 hubnowster
+93. Patryk Adamczak 212528 DonPatus
 
 
 TP-15
