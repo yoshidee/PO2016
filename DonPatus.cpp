@@ -4,8 +4,6 @@
 
 using namespace std;
 
-
-
 class Zwierze
 {
 protected:
@@ -60,19 +58,22 @@ class Zoo
 protected:
     vector <Zwierze*> v;
 
+public:
+    Zoo(){
     v.push_back(new Krowa());
     v.push_back(new Koza());
-
+}
+void glosy() {
     for (int i=0; i<v.size(); ++i)
         v.at(i) -> daj_glos();
-
+}
 };
 
 
 int main()
 {
 
-    Zwierze *z;
+    /*Zwierze *z;
 
     z = new Krowa;
     z->daj_glos();
@@ -82,10 +83,13 @@ int main()
 
     z = new Koza;
     z-> daj_glos();
-    delete z;
+    delete z;*/
+
+    Zoo zoo;
+    zoo.glosy();
 
 
 
-    cout << "\n, Hello World";
+    //cout << "\n, Hello World";
     return 0;
 }
