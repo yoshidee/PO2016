@@ -13,15 +13,13 @@ TP-8
 3.
 
 TN-15
-1.Milczarek Brayan 212519, C++, github: brymil
+1. Milczarek Brayan 212519, C++, github: brymil
 2. Adrian Malinowski, Adrianowsky94, C++,
-88.Jakub Mortka,[treserjezy], C++
-
-
-3. Nowakowski Hubert 212570 hubnowster C++
-4.Joanna Furs 204023 asiafurs
-93. Patryk Adamczak 212528 DonPatus
-97. Adrian Kurylak 212573 nanobrain
+3. Jakub Mortka,[treserjezy], C++
+4. Nowakowski Hubert 212570 hubnowster C++
+5.Joanna Furs 204023 asiafurs
+6. Patryk Adamczak 212528 DonPatus
+7. Adrian Kurylak 212573 nanobrain
 
 
 TP-15
