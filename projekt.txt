@@ -13,9 +13,9 @@ TP-8
 3.
 
 TN-15
-1.Milczarek Brayan 212519
-2.
-3.Marta Panek 204496 martapanek
+1.Milczarek Brayan 212519, github: brymil, C++
+2. Adrian Malinowski, Adrianowsky94, C++
+3.
 93. Patryk Adamczak 212528 DonPatus
 
 
