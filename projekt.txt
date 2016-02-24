@@ -1,4 +1,6 @@
-Imię i nazwisko, [identyfikator github], język programowania, temat projektu.
+Zgłaszając projekt podaj: imię i nazwisko, [twój identyfikator github], język programowania, temat projektu.
+Projekty publikujecie we własnych repozytoriach github. UML wrzucacie w formie plików *.PNG.
+Obowiązkowo wykluczacie z repozytoriów śmieci, np. .exe, .obj itp. [patrz: .gitignore]
 
 TN-8
 1.
