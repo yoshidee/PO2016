@@ -35,6 +35,7 @@ public:
     {
         if (masa<0 || masa>1000) throw -1;
             Zwierze::ustaw_mase(masa);
+        cout << endl << masa << endl;
     }
 };
 
@@ -49,14 +50,22 @@ public:
     {
         if (masa<0 || masa>1000) throw -1;
             Zwierze::ustaw_mase(masa);
+        cout << endl << masa << endl;
     }
 };
 
 
-class Zoo : public Zwierze
+class Zoo
 {
 protected:
-    vector <Zwierze*> vz;
+    vector <Zwierze*> v;
+
+    v.push_back(new Krowa());
+    v.push_back(new Koza());
+
+    for (int i=0; i<v.size(); ++i)
+        v.at(i) -> daj_glos();
+
 };
 
 
@@ -67,11 +76,14 @@ int main()
 
     z = new Krowa;
     z->daj_glos();
+    z->ustaw_mase(50);
+    //cout << z.masa;
     delete z;
 
     z = new Koza;
     z-> daj_glos();
     delete z;
+
 
 
     cout << "\n, Hello World";
