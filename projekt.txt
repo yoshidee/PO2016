@@ -1,4 +1,4 @@
-Zgłaszając projekt podaj: imię i nazwisko, [twój identyfikator github], język programowania, temat projektu.
+﻿Zgłaszając projekt podaj: imię i nazwisko, [twój identyfikator github], język programowania, temat projektu.
 Projekty publikujecie we własnych repozytoriach github. UML wrzucacie w formie plików *.PNG.
 Obowiązkowo wykluczacie z repozytoriów śmieci, np. .exe, .obj itp. [patrz: .gitignore]
 
@@ -19,6 +19,7 @@ TN-15
 3. Nowakowski Hubert 212570 hubnowster C++
 4.Joanna Furs 204023 asiafurs
 93. Patryk Adamczak 212528 DonPatus
+97. Adrian Kurylak 212573 nanobrain
 
 
 TP-15
