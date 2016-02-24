@@ -20,7 +20,7 @@ TN-15
 
 3. Nowakowski Hubert 212570 hubnowster C++
 4.Joanna Furs 204023 asiafurs
-93. Patryk Adamczak 212528 DonPatus
+2010. Patryk Adamczak 212528 DonPatus
 97. Adrian Kurylak 212573 nanobrain
 
 
