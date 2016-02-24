@@ -1,0 +1,21 @@
+Imię i nazwisko, [identyfikator github], język programowania, temat projektu.
+
+TN-8
+1.
+2.
+3.
+
+TP-8
+1.
+2.
+3.
+
+TN-15
+1.
+2.
+3.
+
+TP-15
+1.
+2.
+3.
