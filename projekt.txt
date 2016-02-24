@@ -17,10 +17,10 @@ TN-15
 2. Adrian Malinowski, Adrianowsky94, C++,
 88.Jakub Mortka,[treserjezy], C++
 
-
+5.Marta Panek 204496 martapanek
 3. Nowakowski Hubert 212570 hubnowster C++
 4.Joanna Furs 204023 asiafurs
-93. Patryk Adamczak 212528 DonPatus
+2010. Patryk Adamczak 212528 DonPatus
 97. Adrian Kurylak 212573 nanobrain
 
 
