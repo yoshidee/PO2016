@@ -42,6 +42,7 @@ TP-15
 10. Wojciech Malecki, 204018, maleckiwojciech, C++
 11. Sebastian Iskra, 212555, sebastianiskra, C++
 12.Michal Halucha 204071, neonek991
+13. Dorian Wójtowicz, 204009, WojtowiczD
 
 Przykładowe tematy projektów:
 A. stacja pogodowa z możliwością wysyłania powiadomień o zagrożeniach SMSem, 
