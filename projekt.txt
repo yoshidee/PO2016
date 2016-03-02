@@ -12,7 +12,7 @@ TP-8
 2.Mateusz Muszak, 195999, git: matimucha, C++
 3. Piotr Rabiej, 200231, RabiejPiotr, C++
 4. Maciej Kostrzewa, 211393, termit801, C++
-
+5. Grzegorz Banach, 212518, gbanang, C++
 TN-15
 1.Milczarek Brayan 212519, C++, github: brymil
 2. Adrian Malinowski, Adrianowsky94, C++,
