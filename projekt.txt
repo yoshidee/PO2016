@@ -3,14 +3,14 @@ Projekty publikujecie we własnych repozytoriach github. UML wrzucacie w formie 
 Obowiązkowo wykluczacie z repozytoriów śmieci, np. .exe, .obj itp. [patrz: .gitignore]
 
 TN-8
-1.Miłosz Malczak, 212514, 20milosz
+1.
 2.
 3.
 
 TP-8
 1.Katarzyna Julia Kulas ,214893 ,C++, github: kaktusik13
 2.Mateusz Muszak, 195999, git: matimucha, C++
-3.
+3.Piotr Rabiej, 200231, PiotrRabiej, C++, 
 
 TN-15
 1.Milczarek Brayan 212519, C++, github: brymil
