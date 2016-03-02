@@ -16,6 +16,7 @@ TP-8
 6. Przmyslaw Fornal, 212507, PFornaL, C++
 7. Piotr Cielecki, 212451, piterlca, C++
 8. Jakub Popielarski, 204065 , poopiel, c++
+9. Marcin FOrtuna, 212482, fortunaa,Cpp
 
 TN-15
 1.Milczarek Brayan 212519, C++, github: brymil
