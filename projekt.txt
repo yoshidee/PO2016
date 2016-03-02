@@ -11,7 +11,7 @@ TP-8
 1.Katarzyna Julia Kulas ,214893 ,C++, github: kaktusik13
 2.Mateusz Muszak, 195999, git: matimucha, C++
 3. Piotr Rabiej, 200231, RabiejPiotr, C++
-4. Grzegorz Banach, 212517, gbanang, 
+5. Maciej Kostrzewa, 211393, termit801, C++
 
 TN-15
 1.Milczarek Brayan 212519, C++, github: brymil
