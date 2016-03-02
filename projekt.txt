@@ -14,7 +14,7 @@ TP-8
 4. Maciej Kostrzewa, 211393, termit801, C++
 5. Grzegorz Banach, 212518, gbanang, C++
 6. Przmyslaw Fornal, 212507, PFornaL, C++
-7. Piotr Cielecki, 212451, piterlca, C++
+7. Piotr Cielecki, 212451, piterlca, C+++
 
 TN-15
 1.Milczarek Brayan 212519, C++, github: brymil
