@@ -3,7 +3,7 @@ Projekty publikujecie we własnych repozytoriach github. UML wrzucacie w formie 
 Obowiązkowo wykluczacie z repozytoriów śmieci, np. .exe, .obj itp. [patrz: .gitignore]
 
 TN-8
-1.
+1.Miłosz Malczak, 212514, 20milosz
 2.
 3.
 
