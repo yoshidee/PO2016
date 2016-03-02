@@ -33,7 +33,7 @@ TN-15
 TP-15
 1. Wojciech Piliszek 212491, github: wojtekpil, C++
 2.Jakub Paciepnik 212457 github: Iscandelt C++
-3.
+3. Maciej Beker 201145, bkr193, C++
 
 
 Przykładowe tematy projektów:
