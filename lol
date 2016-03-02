@@ -1,2 +1,1 @@
 wyjdz
-nie
