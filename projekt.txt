@@ -15,6 +15,7 @@ TP-8
 5. Grzegorz Banach, 212518, gbanang, C++
 6. Przmyslaw Fornal, 212507, PFornaL, C++
 7. Piotr Cielecki, 212451, piterlca, C++
+8. Jakub Popielarski, 204065 , poopiel, c++
 
 TN-15
 1.Milczarek Brayan 212519, C++, github: brymil
