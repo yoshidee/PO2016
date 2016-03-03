@@ -17,6 +17,7 @@ TP-8
 7. Piotr Cielecki, 212451, piterlca, C++
 8. Jakub Popielarski, 204065 , poopiel, c++
 9. Marcin FOrtuna, 212482, fortunaa,Cpp
+10. Sebastian Ławniczak, 204068, slawniczak, C++/Java, Projekt A
 
 TN-15
 1.Milczarek Brayan 212519, C++, github: brymil
