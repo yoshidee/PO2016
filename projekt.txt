@@ -14,7 +14,7 @@ TP-8
 4. Maciej Kostrzewa, 211393, termit802, C++
 5. Grzegorz Banach, 212518, gbanang, C++
 6. Przmyslaw Fornal, 212507, PFornaL, C++
-7. Piotr Cielecki, 212451, piterlca, C++
+7. Piotr Cielecki, 212451, piterlca, C++, sterownik domu inteligentnego
 8. Jakub Popielarski, 204065 , poopiel, c++
 9. Marcin FOrtuna, 212482, fortunaa,Cpp
 10. Sebastian Ławniczak, 204068, slawniczak, C++/Java, Projekt A
