@@ -5,7 +5,7 @@ Obowiązkowo wykluczacie z repozytoriów śmieci, np. .exe, .obj itp. [patrz: .g
 TN-8
 1.Miłosz Malczak, 212514, 20milosz
 2.Artur Malinowski 180963, MalinaVifon
-3.
+3.Krystian kurpet 212569, kibbek
 
 TP-8
 1.Katarzyna Julia Kulas ,214893 ,C++, github: kaktusik13
