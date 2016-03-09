@@ -11,6 +11,7 @@ TN-8
 6.Krystian Kurpet 212569,kibbek
 7.Mateusz Dec 200193, mateuszdec
 8.Sebastian Kałużyński 204096, sebakaluzynski
+9.Jacek Zema, 207429, github: jacekzema
 kkkkkkkkkkkkkkkkkkkkkkkkkkkk
 
 
