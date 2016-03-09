@@ -8,6 +8,7 @@ TN-8
 3.Andzej Mackevic, github: 213140
 4.Emilka Godlewska 212477, emilkaa
 17.Krystian Kurpet 212569,kibbek
+5.Laura Jasińska, 201777, laurajas
 
 
 
