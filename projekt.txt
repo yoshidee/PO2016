@@ -12,6 +12,7 @@ TN-8
 7.Mateusz Dec 200193, mateuszdec
 8.Sebastian Kałużyński 204096, sebakaluzynski
 9.Jacek Zema, 207429, github: jacekzema
+10. Laura Jasińska, 201777, laurajas
 kkkkkkkkkkkkkkkkkkkkkkkkkkkk
 
 
