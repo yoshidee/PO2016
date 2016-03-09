@@ -8,6 +8,7 @@ TN-8
 3.Krystian kurpet 212569, kibbek
 
 5. Laura Jasińska, 201777, laurajas
+6. Jacek Zema, 207429, github: jacekzema , C++
 
 TP-8
 1.Katarzyna Julia Kulas ,214893 ,C++, github: kaktusik13
