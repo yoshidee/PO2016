@@ -58,6 +58,7 @@ TP-15
 11. Sebastian Iskra, 212555, sebastianiskra, C++
 12.Michal Halucha 204071, neonek991
 13. Dorian Wójtowicz, 204009, WojtowiczD
+14. Pawel Sikora, 203974, pawelsikora, C/C++
 
 Przykładowe tematy projektów:
 A. stacja pogodowa z możliwością wysyłania powiadomień o zagrożeniach SMSem, 
