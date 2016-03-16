@@ -32,6 +32,7 @@ TP-8
 8. Jakub Popielarski, 204065 , poopiel, c++
 9. Marcin FOrtuna, 212482, fortunaa,Cpp
 10. Sebastian Ławniczak, 204068, slawniczak, C++/Java, Projekt A
+11.Michal Halucha 204061, neonek991
 
 TN-15
 1.Milczarek Brayan 212519, C++, github: brymil
@@ -56,7 +57,7 @@ TP-15
 9. Maciej Beker 201145, bkr193, C++
 10. Wojciech Malecki, 204018, maleckiwojciech, C++
 11. Sebastian Iskra, 212555, sebastianiskra, C++
-12.Michal Halucha 204071, neonek991
+
 13. Dorian Wójtowicz, 204009, WojtowiczD
 14. Pawel Sikora, 203974, pawelsikora, C/C++
 
