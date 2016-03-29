@@ -57,7 +57,7 @@ TP-15
 8. Pawel Kula 203996, pawelkula203996, C++
 9. Maciej Beker 201145, bkr193, C++
 10. Wojciech Malecki, 204018, maleckiwojciech, C++
-11. Sebastian Iskra, 212555, sebastianiskra, C++
+11. Sebastian Iskra, 212555, sebastianiskra, C++, temat projektu: "Biblioteka"
 
 13. Dorian Wójtowicz, 204009, WojtowiczD
 14. Pawel Sikora, 203974, pawelsikora, C/C++
