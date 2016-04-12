@@ -36,7 +36,7 @@ TP-8
 11.Michal Halucha 204061, neonek991
 
 TN-15
-1.Milczarek Brayan 212519, C++, github: brymil
+1.Milczarek Brayan 212519, C++, github: brymil, Projekt B
 2. Adrian Malinowski, Adrianowsky94, C++,
 88.Jakub Mortka,[treserjezy], C++ Haro?
 
