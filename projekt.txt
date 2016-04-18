@@ -41,7 +41,7 @@ TN-15
 88.Jakub Mortka,[treserjezy], C++ Haro?
 
 5.Marta Panek 204496 martapanek
-3. Nowakowski Hubert 212570 hubnowster C++
+3. Nowakowski Hubert 212570 hubnowster C++, Projekt B
 4.Joanna Furs 204023 asiafurs C++
 2010. Patryk Adamczak 212528, DonPatus c-- Projekt B
 97. Adrian Kurylak 212573 nanobrain
