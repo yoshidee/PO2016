@@ -37,7 +37,7 @@ TP-8
 
 TN-15
 1.Milczarek Brayan 212519, C++, github: brymil, Projekt B
-2. Adrian Malinowski, Adrianowsky94, C++,
+2. Adrian Malinowski, Adrianowsky94, C++/C#, komunikator internetowy
 88.Jakub Mortka,[treserjezy], C++ Haro?
 
 5.Marta Panek 204496 martapanek
