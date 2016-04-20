@@ -3,11 +3,11 @@ Projekty publikujecie we własnych repozytoriach github. UML wrzucacie w formie 
 Obowiązkowo wykluczacie z repozytoriów śmieci, np. .exe, .obj itp. [patrz: .gitignore]
 
 TN-8
-1.Miłosz Malczak, 212514, 20milosz
+1.Miłosz Malczak, 212514, 20milosz, "Centralka alarmowa"
 2.Artur Malinowski 180963, MalinaVifon
 3.Andzej Mackevic, github: 213140
 4.Emilka Godlewska 212477, emilkaa
-5.Kamila Kaluzinska, 212478, kamila11, C++
+5.Kamila Kaluzinska, 212478, kamila11, C++, "Centralka alarmowa"
 6.Krystian Kurpet 212569,kibbek
 7.Mateusz Dec 200193, mateuszdec
 8.Sebastian Kałużyński 204096, sebakaluzynski
