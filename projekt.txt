@@ -5,7 +5,7 @@ Obowiązkowo wykluczacie z repozytoriów śmieci, np. .exe, .obj itp. [patrz: .g
 TN-8
 1.Miłosz Malczak, 212514, 20milosz, "Centralka alarmowa"
 2.Artur Malinowski 180963, MalinaVifon
-3.Andzej Mackevic, github: 213140
+3.Andzej Mackevic, github: 213140, Sterownik grzejników
 4.Emilka Godlewska 212477, emilkaa
 5.Kamila Kaluzinska, 212478, kamila11, C++, "Centralka alarmowa"
 6.Krystian Kurpet 212569,kibbek
