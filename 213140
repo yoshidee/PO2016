@@ -1,0 +1,99 @@
+#include <iostream>
+#include <time.h>
+#include <ctime>
+#include <cstdlib>
+
+using namespace std;
+
+class T_controller{
+    protected:
+        int Moc;
+        //protected Heater h;
+        //protected Sensor t;
+
+    public:
+        T_controller()
+        {
+            cout<<"Jestem sterownik!";
+        }
+        ~T_controller()
+        {
+            cout<<"Boom sterownik!";
+        }
+        void set(int t)
+        {
+            Moc = t;
+        }
+
+        void OFF()
+        {
+            Moc = 0;
+        }
+};
+
+class Heater
+{
+    protected:
+        int Power = 0;
+        int Power_max;
+    public:
+        Heater(int pm)
+        {
+            cout<<"Jestem grzejnik!";
+            Power_max = pm;
+        }
+        ~Heater()
+        {
+            cout<<"Boom grzejnik!";
+        }
+        void power(int Moc)
+        {
+            if(Moc <= Power_max)
+            {
+                Power = Moc;
+            }
+            else
+            {
+                cout<<"Za duzo chcesz!!";
+            }
+        }
+};
+
+class Sensor
+{
+    public:
+        int objetosc_pokoju = 0;
+        Sensor(int op)
+        {
+            objetosc_pokoju = op;
+            cout << "Jestem sterowniczkiem!!";
+        }
+        ~Sensor()
+        {
+            cout << "Bomm Sterowniczek!!";
+        }
+        int get()
+        {
+            srand(time(0));
+            int temp;
+            temp = rand();
+            cout<<"temperatura w pokoju: " << temp;
+            return temp;
+        };
+};
+
+int main()
+{
+ /* T_controller jedyny = new T_controller();
+  Heater pierwszy = new Heater(50);
+  Heater drugi = new Heater(100);
+  Sensor do_pierwszego = new Sensor(20);
+  Sensor do_drugiego = new Sensor(45);
+
+  delete do_drugiego;
+  delete(do_pierwszego);
+  delete(drugi);
+  delete(pierwszy);
+  delete(jedyny);*/
+
+}
