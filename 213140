@@ -2,32 +2,34 @@
 #include <time.h>
 #include <ctime>
 #include <cstdlib>
+#include <conio.h>
 
 using namespace std;
-
 class T_controller{
     protected:
-        int Moc;
+        int Moc_grzania;
         //protected Heater h;
         //protected Sensor t;
 
     public:
+        int numer = 0;
         T_controller()
         {
-            cout<<"Jestem sterownik!";
+            numer++;
+            cout<<"Jestem sterownik! Numer: "<< numer << "\n";
         }
         ~T_controller()
         {
-            cout<<"Boom sterownik!";
+            cout<<"Boom sterownik! Numer: "<< numer << "\n";
         }
         void set(int t)
         {
-            Moc = t;
+            Moc_grzania = t;
         }
 
         void OFF()
         {
-            Moc = 0;
+            Moc_grzania = 0;
         }
 };
 
@@ -37,24 +39,28 @@ class Heater
         int Power = 0;
         int Power_max;
     public:
-        Heater(int pm)
+        string pokoj;
+        Heater(int pm, string nazwa_pokoju)
         {
-            cout<<"Jestem grzejnik!";
             Power_max = pm;
+            pokoj = nazwa_pokoju;
+            cout<<"Jestem grzejnik!"<<" w pokoju "<<pokoj<<"\n";;
         }
         ~Heater()
         {
-            cout<<"Boom grzejnik!";
+            cout<<"Boom grzejnik!"<<" w pokoju "<<pokoj<<"\n";;
         }
-        void power(int Moc)
+        void grzanie(int grzanie)
         {
-            if(Moc <= Power_max)
+            cout <<"Chcesz w "<< pokoj<< " temperature: " << grzanie <<"\n";
+            if(grzanie <= Power_max)
             {
-                Power = Moc;
+                cout<<"Ustawiona temperatura " << grzanie <<" w pokoju "<<pokoj <<"\n";
+                Power = grzanie;
             }
             else
             {
-                cout<<"Za duzo chcesz!!";
+                cout<<"Za duzo chcesz!!\n";
             }
         }
 };
@@ -62,38 +68,50 @@ class Heater
 class Sensor
 {
     public:
+        string pokoj;
         int objetosc_pokoju = 0;
-        Sensor(int op)
+        Sensor(int op, string nazwa_pokoju)
         {
             objetosc_pokoju = op;
-            cout << "Jestem sterowniczkiem!!";
+            pokoj = nazwa_pokoju;
+            cout << "Jestem Czujniczkiem!!"<<" w pokoju "<<pokoj<<"\n";
         }
         ~Sensor()
         {
-            cout << "Bomm Sterowniczek!!";
+            cout << "Bomm Czujniczek!!"<<" w pokoju "<<pokoj<<"\n";
         }
         int get()
         {
             srand(time(0));
             int temp;
             temp = rand();
-            cout<<"temperatura w pokoju: " << temp;
-            return temp;
+            cout<<"temperatura w pokoju: " <<pokoj<< " = " << temp/100 << "\n";
+            return temp/100;
         };
 };
 
 int main()
 {
- /* T_controller jedyny = new T_controller();
-  Heater pierwszy = new Heater(50);
-  Heater drugi = new Heater(100);
-  Sensor do_pierwszego = new Sensor(20);
-  Sensor do_drugiego = new Sensor(45);
+  T_controller jedyny = T_controller();
+  Heater sypialnia_h =  Heater(80, "Sypialnia");
+  Heater kuchnia_h =  Heater(180, "Kuchnia");
+  Sensor Sypialnia_s =  Sensor(20, "Sypialnia");
+  Sensor Kuchnia_s =  Sensor(45, "Kuchnia");
 
-  delete do_drugiego;
-  delete(do_pierwszego);
-  delete(drugi);
-  delete(pierwszy);
-  delete(jedyny);*/
+  int temp_teraz = Sypialnia_s.get();
+  jedyny.set(temp_teraz + 30);
+  sypialnia_h.grzanie(temp_teraz+30);
 
+  temp_teraz = Kuchnia_s.get();
+  jedyny.set(temp_teraz + 50);
+  kuchnia_h.grzanie(temp_teraz+50);
+
+
+
+
+  /*do_drugiego.Sensor::~Sensor();
+  do_pierwszego.Sensor::~Sensor();
+  drugi.Heater::~Heater();
+  pierwszy.Heater::~Heater();
+  jedyny.T_controller::~T_controller();*/
 }
