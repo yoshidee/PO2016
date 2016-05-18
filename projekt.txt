@@ -6,13 +6,13 @@ TN-8
 1.Miłosz Malczak, 212514, 20milosz, "Centralka alarmowa"
 2.Artur Malinowski 180963, MalinaVifon
 3.Andzej Mackevic, github: 213140, Sterownik grzejników
-4.Emilka Godlewska 212477, emilkaa
+4.Emilka Godlewska 212477, emilkaa "Inteligentna siec energetyczna" C#
 5.Kamila Kaluzinska, 212478, kamila11, C++, "Centralka alarmowa"
 6.Krystian Kurpet 212569,kibbek
 7.Mateusz Dec 200193, mateuszdec
 8.Sebastian Kałużyński 204096, sebakaluzynski
 9.Jacek Zema, 207429, github: jacekzema
-10. Laura Jasińska, 201777, laurajas
+10. Laura Jasińska, 201777, laurajas "Inteligentna siec energetyczna" C#
 11. Oskar Staniszewski, 212499, gramofonowo, C++, inteligentny budynek
 kkkkkkkkkkkkkkkkkkkkkkkkkkkk
 
