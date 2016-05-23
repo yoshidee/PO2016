@@ -10,7 +10,7 @@ TN-8
 5.Kamila Kaluzinska, 212478, kamila11, C++, "Centralka alarmowa"
 6.Krystian Kurpet 212569,kibbek
 7.Mateusz Dec 200193, mateuszdec
-8.Sebastian Kałużyński 204096, sebakaluzynski
+8.Sebastian Kałużyński 204096, sebakaluzynski, Projekt A
 9.Jacek Zema, 207429, github: jacekzema
 10. Laura Jasińska, 201777, laurajas "Inteligentna siec energetyczna" C#
 11. Oskar Staniszewski, 212499, gramofonowo, C++, inteligentny budynek
