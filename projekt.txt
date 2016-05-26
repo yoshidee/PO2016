@@ -38,13 +38,12 @@ TP-8
 TN-15
 1.Milczarek Brayan 212519, C++, github: brymil, Projekt B
 2. Adrian Malinowski, Adrianowsky94, C++/C#, komunikator internetowy
-88.Jakub Mortka,[treserjezy], C++ Haro?
-
-5.Marta Panek 204496 martapanek
-3. Nowakowski Hubert 212570 hubnowster C++, Projekt B
-4.Joanna Furs 204023 asiafurs C++
-2010. Patryk Adamczak 212528, DonPatus c-- Projekt B
-97. Adrian Kurylak 212573 nanobrain
+3.Jakub Mortka,[treserjezy], C++ Haro?
+4.Marta Panek 204496 martapanek
+5. Nowakowski Hubert 212570 hubnowster C++, Projekt B
+6.Joanna Furs 204023 asiafurs C++
+7. Patryk Adamczak 212528, DonPatus c-- Projekt B
+8. Adrian Kurylak 212573 nanobrain QT c++ Sensors manager
 
 
 TP-15
