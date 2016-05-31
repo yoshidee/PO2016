@@ -28,7 +28,7 @@ TP-8
 3. Piotr Rabiej, 200231, RabiejPiotr, C++
 4. Maciej Kostrzewa, 211393, termit802, C++
 5. Grzegorz Banach, 212518, gbanang, C++
-6. Przmyslaw Fornal, 212507, PFornaL, C++
+6. Przmyslaw Fornal, 212507, PFornaL, C++, utrzymanie poziomu cieczy
 7. Piotr Cielecki, 212451, piterlca, C++, sterownik domu inteligentnego
 8. Jakub Popielarski, 204065 , poopiel, c++
 9. Marcin Fortuna 212482, Wojciech Juszczak 212467, fortunaa,Cpp, System stacji pogodowych
