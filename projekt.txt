@@ -31,7 +31,7 @@ TP-8
 6. Przmyslaw Fornal, 212507, PFornaL, C++, utrzymanie poziomu cieczy
 7. Piotr Cielecki, 212451, piterlca, C++, sterownik domu inteligentnego
 8. Jakub Popielarski, 204065 , poopiel, c++
-9. Marcin Fortuna 212482, Wojciech Juszczak 212467, fortunaa,Cpp, System stacji pogodowych
+9. Marcin Fortuna 212482, Wojciech Juszczak 212467, wojt88 ,Cpp, System stacji pogodowych
 10. Sebastian Ławniczak, 204068, slawniczak, C++/Java, Projekt A
 11.Michal Halucha 204061, neonek991
 
