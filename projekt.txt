@@ -9,7 +9,7 @@ TN-8
 4.Emilka Godlewska 212477, emilkaa "Inteligentna siec energetyczna" C#
 5.Kamila Kaluzinska, 212478, kamila11, C++, "Centralka alarmowa"
 6.Krystian Kurpet 212569,kibbek
-7.Mateusz Dec 200193, mateuszdec
+7.Mateusz Dec 200193, mateuszdec, Projekt A (zajac2025)
 8.Sebastian Kałużyński 204096, sebakaluzynski, Projekt A
 9.Jacek Zema, 207429, github: jacekzema
 10. Laura Jasińska, 201777, laurajas "Inteligentna siec energetyczna" C#
@@ -52,7 +52,7 @@ TP-15
 3. Kacper Witkowski, 212501, kacaperek
 4. Kamil Hanuszewicz, 204072, git: kamil056
 5. Tomasz Trojak 212479 github: tmk121 C++
-7. Przemyslaw Zajaczkowski 204118 github: Zajac2025 C++
+7. Przemyslaw Zajaczkowski 204118 github: Zajac2025 C++, Projekt A (mateuszdec)
 8. Pawel Kula 203996, pawelkula203996, C++, "System wbudowany w bankomacie"
 9. Maciej Beker 201145, bkr193, C++, Sterownik domu inteligentnego
 10. Wojciech Malecki, 204018, maleckiwojciech, C++, "System wbudowany w bankomacie"
