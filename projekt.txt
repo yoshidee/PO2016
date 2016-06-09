@@ -44,7 +44,7 @@ TN-15
 5. Nowakowski Hubert 212570 hubnowster C++, Projekt B
 6.Joanna Furs 204023 asiafurs C++
 7. Patryk Adamczak 212528, DonPatus c-- Projekt B
-8. Adrian Kurylak 212573 nanobrain QT c++ Sensors manager
+8. Adrian Kurylak 212573 nanobrain QT c++ Sensors manager https://github.com/nanobrain/Isens
 
 
 TP-15
