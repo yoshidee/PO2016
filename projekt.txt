@@ -50,7 +50,7 @@ TN-15
 TP-15
 1. Wojciech Piliszek 212491, github: wojtekpil, C++ Projekt B
 2.Jakub Paciepnik 212457 github: Iscandelt C++  Projekt B
-3. Kacper Witkowski, 212501, kacaperek
+3. Kacper Witkowski, 212501, kacaperek, Qt C++, Sensors manager
 4. Kamil Hanuszewicz, 204072, git: kamil056
 5. Tomasz Trojak 212479 github: tmk121 C++
 7. Przemyslaw Zajaczkowski 204118 github: Zajac2025 C++, Projekt A (mateuszdec)
