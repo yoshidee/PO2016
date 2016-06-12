@@ -61,6 +61,7 @@ TP-15
 
 13. Dorian Wójtowicz, 204009, WojtowiczD
 14. Pawel Sikora, 203974, pawelsikora, C/C++
+15. Jakub Kowol, 212547, yoshidee, QT c++ Sensors manager (https://github.com/nanobrain/Isens)
 
 Przykładowe tematy projektów:
 A. stacja pogodowa z możliwością wysyłania powiadomień o zagrożeniach SMSem, 
